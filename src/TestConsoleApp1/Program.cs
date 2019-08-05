@@ -10,6 +10,7 @@ namespace TestConsoleApp1
         public static void Main(string[] args)
         {
             // testing git repositity
+
         }
     }
 }
